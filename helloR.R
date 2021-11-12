@@ -1,10 +1,2 @@
-hello
+x<-1+1
 
-"I am online"
-
-
-"github edit"
-
-
-
-"pulling this info in"
